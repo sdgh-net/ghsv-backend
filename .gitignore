@@ -1,0 +1,6 @@
+__pycache__
+/data
+/logs
+/temp
+/api/private_*
+/assets/private/*

@@ -1,0 +1,8 @@
+wheel
+flask
+gevent
+pymssql
+flask-login
+#Flask-WTF
+#flask-cors
+python-docx

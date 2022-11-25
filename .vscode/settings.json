@@ -1,0 +1,6 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "code-runner.executorMapByGlob": {
+        "**": "$pythonPath -u $workspaceRoot/main.py",
+    }
+}
